@@ -1,10 +1,10 @@
-# league-observer-tool
+# Valorant-observer-tool
 The observer tool is part of our [lol-prod-toolkit](https://github.com/RCVolus/league-prod-toolkit).
-The tool is used to query local client APIs (LCU, ingame) and send the data to a local or remote instance of prod-toolkit.
+The tool is used to query local Valorant client APIs and send the data to a local or remote instance of prod-toolkit.
 Once install, the observer tool automatically updates to any new versions released.
 
 ## Installation
-1. Download the latest release [here](https://github.com/RCVolus/league-observer-tool/releases/latest)
+1. Download the latest release [here](https://github.com/RCVolus/valorant-observer-tool/releases/latest)
 2. Install and run the observer tool
 3. Configure the toolkit instance:
 * Open the settings file by selecting File -> Open Settings
