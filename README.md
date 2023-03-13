@@ -1,4 +1,6 @@
 # Valorant-observer-tool
+**Status 13.03.2023: VALORANT features are currently not maintained. While we focus on League, we will not actively support Valorant Features of the toolkit.**
+
 The observer tool is part of our [lol-prod-toolkit](https://github.com/RCVolus/league-prod-toolkit).
 The tool is used to query local Valorant client APIs and send the data to a local or remote instance of prod-toolkit.
 Once install, the observer tool automatically updates to any new versions released.
